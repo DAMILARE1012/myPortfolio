@@ -27,11 +27,14 @@
                                     <div class="member-name">DAMILARE E. OLATUNJI</div>
                                     <div class="member-position">LARAVEL DEVELOPER</div>
                                     <div class="member-content">
-                                        <p>Lorem ipsum dolor sit amet, consectetur perset adipisicing elit, sed do eiusmod tempor.</p>
+                                        <p>Hi, I am DAMILARE E. OLATUNJI.
+                                            I'm a Software Developer willing to go up any length in optimizing, building and developing exceptional, scalable and high performance web applications.</p>
                                         <br>
-                                        <p>Ut enim aden minim veniam, quis nostrud seti exercitation ullamco laboris nisi ut aliquip exeea commodo consequat. Duis aute irure dolor.</p>
+                                        <p>I have a solid understanding of application design using Laravel and i also have knowledge of database design and querying using SQL. Proficiency in HTML and JavaScript and practical experience using the MVC architecture</p>
                                         <br>
-                                        <p>Suspendisse potenti. Maecenas faucibus massa euismod, malesuada diam finibus, semper ligula. Donec nibh arcu, scelerisque id nisl sit amet, placerat mollis neque. Nullam suscipit auctor laoreet.</p>
+                                        <p>I love to code slick and fast web apps, and i love solving problems  and  critical thinking.
+                                             have great communication skills and
+                                            the desire and ability to learn. I take pride in products I build.</p>
                                     </div>
                                 </div>
                             </div>
