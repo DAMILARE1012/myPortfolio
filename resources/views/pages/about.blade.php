@@ -5,7 +5,7 @@
 
 @section('content')
     
-        <!-- About Content -->
+        <!-- About content page-->
         <div id="content" class="site-content">
 
             <br>
